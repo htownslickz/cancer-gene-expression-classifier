@@ -1,0 +1,13 @@
+
+---
+
+## 🧾 5. Create `requirements.txt`
+
+```bash
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+torch
+jupyter
